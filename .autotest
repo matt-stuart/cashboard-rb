@@ -20,7 +20,7 @@ Autotest.add_hook :initialize do |at|
   end
   
   # Now add support for the test files themselves
-	at.add_mapping(%r%^test/unit/(.*)\.rb$%) do |file, m|
-	  at.files_matching %r%#{file}%
-	end
+  at.add_mapping(%r%^test/unit/(.*)\.rb$%) do |file, m|
+    at.files_matching %r%#{file}%
+  end
 end
