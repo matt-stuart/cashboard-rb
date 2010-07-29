@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects type="array">
+  <project>
+    <link rel="self" href="http://apicashboard.i/projects/107689257"/>
+    <link rel="toggle_status" href="http://apicashboard.i/projects/107689257/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/projects/107689257/line_items"/>
+    <link rel="assigned_employees" href="http://apicashboard.i/projects/107689257/assigned_employees"/>
+    <id>107689257</id>
+    <billing_code>1</billing_code>
+    <client_name read_only="true">Widgets Unlimited</client_name>
+    <client_id>695681551</client_id>
+    <client_type>Company</client_type>
+    <client_view_time_code>0</client_view_time_code>
+    <completion_date></completion_date>
+    <created_on>2010-07-21 00:00:00</created_on>
+    <is_active read_only="true">false</is_active>
+    <name>Internal Estimate</name>
+    <rate>0.00</rate>
+    <start_date>2010-07-28</start_date>
+  </project>
+  <project>
+    <link rel="self" href="http://apicashboard.i/projects/317862090"/>
+    <link rel="toggle_status" href="http://apicashboard.i/projects/317862090/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/projects/317862090/line_items"/>
+    <link rel="assigned_employees" href="http://apicashboard.i/projects/317862090/assigned_employees"/>
+    <id>317862090</id>
+    <billing_code>1</billing_code>
+    <client_name read_only="true">Bobs Manufacturing</client_name>
+    <client_id>760501033</client_id>
+    <client_type>Company</client_type>
+    <client_view_time_code>0</client_view_time_code>
+    <completion_date></completion_date>
+    <created_on>2010-07-21 00:00:00</created_on>
+    <is_active read_only="true">true</is_active>
+    <name>Auctions Redesign</name>
+    <rate>60.00</rate>
+    <start_date>2010-07-28</start_date>
+  </project>
+  <project>
+    <link rel="self" href="http://apicashboard.i/projects/708146559"/>
+    <link rel="toggle_status" href="http://apicashboard.i/projects/708146559/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/projects/708146559/line_items"/>
+    <link rel="assigned_employees" href="http://apicashboard.i/projects/708146559/assigned_employees"/>
+    <id>708146559</id>
+    <billing_code>2</billing_code>
+    <client_name read_only="true">Survial LTD</client_name>
+    <client_id>438872084</client_id>
+    <client_type>Company</client_type>
+    <client_view_time_code>0</client_view_time_code>
+    <completion_date></completion_date>
+    <created_on>2010-07-21 00:00:00</created_on>
+    <is_active read_only="true">true</is_active>
+    <name>Fend for yourselves, employee rate!</name>
+    <rate>0.00</rate>
+    <start_date>2010-07-28</start_date>
+  </project>
+  <project>
+    <link rel="self" href="http://apicashboard.i/projects/39791954"/>
+    <link rel="toggle_status" href="http://apicashboard.i/projects/39791954/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/projects/39791954/line_items"/>
+    <link rel="assigned_employees" href="http://apicashboard.i/projects/39791954/assigned_employees"/>
+    <id>39791954</id>
+    <billing_code>1</billing_code>
+    <client_name read_only="true">Bob Barker</client_name>
+    <client_id>121898072</client_id>
+    <client_type>Person</client_type>
+    <client_view_time_code>0</client_view_time_code>
+    <completion_date></completion_date>
+    <created_on>2010-07-21 00:00:00</created_on>
+    <is_active read_only="true">true</is_active>
+    <name>Personal Person Project</name>
+    <rate>60.00</rate>
+    <start_date>2010-07-28</start_date>
+  </project>
+  <project>
+    <link rel="self" href="http://apicashboard.i/projects/660985040"/>
+    <link rel="toggle_status" href="http://apicashboard.i/projects/660985040/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/projects/660985040/line_items"/>
+    <link rel="assigned_employees" href="http://apicashboard.i/projects/660985040/assigned_employees"/>
+    <id>660985040</id>
+    <billing_code>1</billing_code>
+    <client_name read_only="true">Survial LTD</client_name>
+    <client_id>438872084</client_id>
+    <client_type>Company</client_type>
+    <client_view_time_code>0</client_view_time_code>
+    <completion_date></completion_date>
+    <created_on>2010-07-21 00:00:00</created_on>
+    <is_active read_only="true">true</is_active>
+    <name>Survivalist Tendencies</name>
+    <rate>0.00</rate>
+    <start_date>2010-07-28</start_date>
+  </project>
+  <project>
+    <link rel="self" href="http://apicashboard.i/projects/200482051"/>
+    <link rel="toggle_status" href="http://apicashboard.i/projects/200482051/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/projects/200482051/line_items"/>
+    <link rel="assigned_employees" href="http://apicashboard.i/projects/200482051/assigned_employees"/>
+    <id>200482051</id>
+    <billing_code>0</billing_code>
+    <client_name read_only="true">Widgets Unlimited</client_name>
+    <client_id>695681551</client_id>
+    <client_type>Company</client_type>
+    <client_view_time_code>0</client_view_time_code>
+    <completion_date></completion_date>
+    <created_on>2010-07-21 00:00:00</created_on>
+    <is_active read_only="true">true</is_active>
+    <name>XYZ Internal Stuff</name>
+    <rate>0.00</rate>
+    <start_date>2010-07-28</start_date>
+  </project>
+  <project>
+    <link rel="self" href="http://apicashboard.i/projects/198381282"/>
+    <link rel="toggle_status" href="http://apicashboard.i/projects/198381282/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/projects/198381282/line_items"/>
+    <link rel="assigned_employees" href="http://apicashboard.i/projects/198381282/assigned_employees"/>
+    <id>198381282</id>
+    <billing_code>1</billing_code>
+    <client_name read_only="true">Bobs Manufacturing</client_name>
+    <client_id>760501033</client_id>
+    <client_type>Company</client_type>
+    <client_view_time_code>0</client_view_time_code>
+    <completion_date></completion_date>
+    <created_on>2010-07-14 00:00:00</created_on>
+    <is_active read_only="true">false</is_active>
+    <name>Inactive Project</name>
+    <rate>60.00</rate>
+    <start_date></start_date>
+  </project>
+</projects>

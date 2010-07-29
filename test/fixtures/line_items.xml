@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<line_items type="array">
+  <line_item>
+    <link rel="self" href="http://apicashboard.i/line_items/5568311"/>
+    <id>5568311</id>
+    <best_time_in_minutes>1200</best_time_in_minutes>
+    <created_on>2010-07-27 00:00:00</created_on>
+    <description>This is where we take a look at your competitors and see what they're doing well, and could be doing better.
+
+We take this information and give you a detailed overview of how to make your site better based on the information gleaned.</description>
+    <estimate_id></estimate_id>
+    <flat_fee rel="financial">20.00</flat_fee>
+    <is_complete>false</is_complete>
+    <is_taxable rel="financial">false</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">60.00</price_per>
+    <project_id>317862090</project_id>
+    <quantity_low>20.0</quantity_low>
+    <quantity_high>25.0</quantity_high>
+    <rank>1</rank>
+    <title>Competition Research</title>
+    <type_code>1</type_code>
+    <unit_label>hours</unit_label>
+    <worst_time_in_minutes>1500</worst_time_in_minutes>
+  </line_item>
+  <line_item>
+    <link rel="self" href="http://apicashboard.i/line_items/172086084"/>
+    <id>172086084</id>
+    <best_time_in_minutes>1200</best_time_in_minutes>
+    <created_on>2010-07-26 00:00:00</created_on>
+    <description>Best / worst case
+</description>
+    <estimate_id></estimate_id>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <is_complete>false</is_complete>
+    <is_taxable rel="financial">false</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">60.00</price_per>
+    <project_id></project_id>
+    <quantity_low>20.0</quantity_low>
+    <quantity_high>0.0</quantity_high>
+    <rank></rank>
+    <title>First line item on estimate</title>
+    <type_code>1</type_code>
+    <unit_label>hours</unit_label>
+    <worst_time_in_minutes>0</worst_time_in_minutes>
+  </line_item>
+  <line_item>
+    <link rel="self" href="http://apicashboard.i/line_items/200482051"/>
+    <id>200482051</id>
+    <best_time_in_minutes>0</best_time_in_minutes>
+    <created_on>2010-07-27 00:00:00</created_on>
+    <description></description>
+    <estimate_id></estimate_id>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <is_complete>false</is_complete>
+    <is_taxable rel="financial">false</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">0.00</price_per>
+    <project_id>200482051</project_id>
+    <quantity_low>0.0</quantity_low>
+    <quantity_high>0.0</quantity_high>
+    <rank>1</rank>
+    <title>UNCATEGORIZED</title>
+    <type_code>1</type_code>
+    <unit_label>hours</unit_label>
+    <worst_time_in_minutes>0</worst_time_in_minutes>
+  </line_item>
+  <line_item>
+    <link rel="self" href="http://apicashboard.i/line_items/317917121"/>
+    <id>317917121</id>
+    <best_time_in_minutes>900</best_time_in_minutes>
+    <created_on>2010-07-26 00:00:00</created_on>
+    <description>Blaw!
+</description>
+    <estimate_id>317862090</estimate_id>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <is_complete>false</is_complete>
+    <is_taxable rel="financial">true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">60.00</price_per>
+    <project_id>317862090</project_id>
+    <quantity_low>15.0</quantity_low>
+    <quantity_high>0.0</quantity_high>
+    <rank></rank>
+    <title>Product Item</title>
+    <type_code>2</type_code>
+    <unit_label>items</unit_label>
+    <worst_time_in_minutes>0</worst_time_in_minutes>
+  </line_item>
+  <line_item>
+    <link rel="self" href="http://apicashboard.i/line_items/332946883"/>
+    <id>332946883</id>
+    <best_time_in_minutes>240</best_time_in_minutes>
+    <created_on>2010-07-28 00:00:00</created_on>
+    <description>Based on our personas we'll come up with scenarios for usage of the auction section.
+
+This enables us to design more accurately.</description>
+    <estimate_id>317862090</estimate_id>
+    <flat_fee rel="financial">300.00</flat_fee>
+    <is_complete>true</is_complete>
+    <is_taxable rel="financial">true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">60.00</price_per>
+    <project_id>317862090</project_id>
+    <quantity_low>4.0</quantity_low>
+    <quantity_high>0.0</quantity_high>
+    <rank></rank>
+    <title>User scenarios</title>
+    <type_code>1</type_code>
+    <unit_label>hours</unit_label>
+    <worst_time_in_minutes>0</worst_time_in_minutes>
+  </line_item>
+  <line_item>
+    <link rel="self" href="http://apicashboard.i/line_items/495791875"/>
+    <id>495791875</id>
+    <best_time_in_minutes>900</best_time_in_minutes>
+    <created_on>2010-07-26 00:00:00</created_on>
+    <description>Task item
+</description>
+    <estimate_id></estimate_id>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <is_complete>false</is_complete>
+    <is_taxable rel="financial">true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">60.00</price_per>
+    <project_id>198381282</project_id>
+    <quantity_low>15.0</quantity_low>
+    <quantity_high>0.0</quantity_high>
+    <rank></rank>
+    <title>Inactive task item</title>
+    <type_code>1</type_code>
+    <unit_label>hours</unit_label>
+    <worst_time_in_minutes>0</worst_time_in_minutes>
+  </line_item>
+  <line_item>
+    <link rel="self" href="http://apicashboard.i/line_items/592707037"/>
+    <id>592707037</id>
+    <best_time_in_minutes>1200</best_time_in_minutes>
+    <created_on>2010-07-26 00:00:00</created_on>
+    <description>Best / worst case
+</description>
+    <estimate_id>317862090</estimate_id>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <is_complete>false</is_complete>
+    <is_taxable rel="financial">false</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">60.00</price_per>
+    <project_id>317862090</project_id>
+    <quantity_low>20.0</quantity_low>
+    <quantity_high>0.0</quantity_high>
+    <rank>2</rank>
+    <title>First line item on estimate</title>
+    <type_code>1</type_code>
+    <unit_label>hours</unit_label>
+    <worst_time_in_minutes>0</worst_time_in_minutes>
+  </line_item>
+  <line_item>
+    <link rel="self" href="http://apicashboard.i/line_items/630194006"/>
+    <id>630194006</id>
+    <best_time_in_minutes>0</best_time_in_minutes>
+    <created_on>2010-07-26 00:00:00</created_on>
+    <description></description>
+    <estimate_id></estimate_id>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <is_complete>false</is_complete>
+    <is_taxable rel="financial">true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">0.00</price_per>
+    <project_id>708146559</project_id>
+    <quantity_low>0.0</quantity_low>
+    <quantity_high></quantity_high>
+    <rank></rank>
+    <title>Employee rate item</title>
+    <type_code>1</type_code>
+    <unit_label>hours</unit_label>
+    <worst_time_in_minutes>0</worst_time_in_minutes>
+  </line_item>
+  <line_item>
+    <link rel="self" href="http://apicashboard.i/line_items/674577917"/>
+    <id>674577917</id>
+    <best_time_in_minutes>1200</best_time_in_minutes>
+    <created_on>2010-07-27 00:00:00</created_on>
+    <description></description>
+    <estimate_id>296221756</estimate_id>
+    <flat_fee rel="financial">20.00</flat_fee>
+    <is_complete>false</is_complete>
+    <is_taxable rel="financial">false</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">60.00</price_per>
+    <project_id></project_id>
+    <quantity_low>20.0</quantity_low>
+    <quantity_high>25.0</quantity_high>
+    <rank>1</rank>
+    <title>Competition Research</title>
+    <type_code>1</type_code>
+    <unit_label>hours</unit_label>
+    <worst_time_in_minutes>1500</worst_time_in_minutes>
+  </line_item>
+  <line_item>
+    <link rel="self" href="http://apicashboard.i/line_items/826043457"/>
+    <id>826043457</id>
+    <best_time_in_minutes>120</best_time_in_minutes>
+    <created_on>2010-07-27 00:00:00</created_on>
+    <description></description>
+    <estimate_id>296221756</estimate_id>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <is_complete>false</is_complete>
+    <is_taxable rel="financial">false</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">60.00</price_per>
+    <project_id></project_id>
+    <quantity_low>2.0</quantity_low>
+    <quantity_high>10.0</quantity_high>
+    <rank>1</rank>
+    <title>UNCATEGORIZED</title>
+    <type_code>1</type_code>
+    <unit_label>hours</unit_label>
+    <worst_time_in_minutes>600</worst_time_in_minutes>
+  </line_item>
+  <line_item>
+    <link rel="self" href="http://apicashboard.i/line_items/831400434"/>
+    <id>831400434</id>
+    <best_time_in_minutes>120000</best_time_in_minutes>
+    <created_on>2010-07-26 00:00:00</created_on>
+    <description>Writing copy for your web site
+</description>
+    <estimate_id></estimate_id>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <is_complete>false</is_complete>
+    <is_taxable rel="financial">true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">0.50</price_per>
+    <project_id></project_id>
+    <quantity_low>2000.0</quantity_low>
+    <quantity_high>0.0</quantity_high>
+    <rank></rank>
+    <title>Free account task</title>
+    <type_code>0</type_code>
+    <unit_label>words</unit_label>
+    <worst_time_in_minutes>0</worst_time_in_minutes>
+  </line_item>
+</line_items>

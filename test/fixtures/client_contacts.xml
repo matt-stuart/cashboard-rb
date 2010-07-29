@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<client_contacts type="array">
+  <client_contact>
+    <link rel="memberships" href="http://apicashboard.i/client_contacts/121898072/memberships"/>
+    <link rel="self" href="http://apicashboard.i/client_contacts/121898072"/>
+    <id>121898072</id>
+    <api_key read_only="true">3i4yhd3l1g1poonnkwm9jyglb4u7xou1gghpttxyhm0f150xrk</api_key>
+    <last_login read_only="true"></last_login>
+    <login_count read_only="true">0</login_count>
+    <address></address>
+    <address2></address2>
+    <city></city>
+    <country_code></country_code>
+    <currency_type_code></currency_type_code>
+    <custom_1></custom_1>
+    <custom_2></custom_2>
+    <custom_3></custom_3>
+    <email_address>bobbarker@bmanufac.biz</email_address>
+    <first_name>Bob</first_name>
+    <last_name>Barker</last_name>
+    <notes></notes>
+    <password></password>
+    <state></state>
+    <telephone></telephone>
+    <url></url>
+    <zip></zip>
+  </client_contact>
+  <client_contact>
+    <link rel="memberships" href="http://apicashboard.i/client_contacts/225395361/memberships"/>
+    <link rel="self" href="http://apicashboard.i/client_contacts/225395361"/>
+    <id>225395361</id>
+    <api_key read_only="true"></api_key>
+    <last_login read_only="true"></last_login>
+    <login_count read_only="true">0</login_count>
+    <address></address>
+    <address2></address2>
+    <city></city>
+    <country_code>IE</country_code>
+    <currency_type_code></currency_type_code>
+    <custom_1></custom_1>
+    <custom_2></custom_2>
+    <custom_3></custom_3>
+    <email_address></email_address>
+    <first_name>Joe</first_name>
+    <last_name>Jones</last_name>
+    <notes></notes>
+    <password></password>
+    <state></state>
+    <telephone></telephone>
+    <url></url>
+    <zip></zip>
+  </client_contact>
+</client_contacts>

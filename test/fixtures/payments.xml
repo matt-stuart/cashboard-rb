@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payments type="array">
+  <payment>
+    <link rel="invoices" href="http://apicashboard.i/payments/783544818/invoices"/>
+    <link rel="self" href="http://apicashboard.i/payments/783544818"/>
+    <id>783544818</id>
+    <amount rel="financial">50.00</amount>
+    <assigned_id>0</assigned_id>
+    <client_id>760501033</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-07-14</created_on>
+    <document_template_id></document_template_id>
+    <estimate_id></estimate_id>
+    <notes></notes>
+    <person_id>121898072</person_id>
+    <transaction_id></transaction_id>
+  </payment>
+  <payment>
+    <link rel="invoices" href="http://apicashboard.i/payments/699647491/invoices"/>
+    <link rel="self" href="http://apicashboard.i/payments/699647491"/>
+    <id>699647491</id>
+    <amount rel="financial">30.00</amount>
+    <assigned_id>2</assigned_id>
+    <client_id>760501033</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-07-14</created_on>
+    <document_template_id></document_template_id>
+    <estimate_id></estimate_id>
+    <notes></notes>
+    <person_id>121898072</person_id>
+    <transaction_id></transaction_id>
+  </payment>
+  <payment>
+    <link rel="invoices" href="http://apicashboard.i/payments/757178126/invoices"/>
+    <link rel="self" href="http://apicashboard.i/payments/757178126"/>
+    <id>757178126</id>
+    <amount rel="financial">800.00</amount>
+    <assigned_id>200</assigned_id>
+    <client_id>225395361</client_id>
+    <client_type>Person</client_type>
+    <created_on>2010-06-28</created_on>
+    <document_template_id></document_template_id>
+    <estimate_id></estimate_id>
+    <notes></notes>
+    <person_id></person_id>
+    <transaction_id></transaction_id>
+  </payment>
+  <payment>
+    <link rel="invoices" href="http://apicashboard.i/payments/1063113957/invoices"/>
+    <link rel="self" href="http://apicashboard.i/payments/1063113957"/>
+    <id>1063113957</id>
+    <amount rel="financial">100.00</amount>
+    <assigned_id>3</assigned_id>
+    <client_id>760501033</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-06-16</created_on>
+    <document_template_id></document_template_id>
+    <estimate_id></estimate_id>
+    <notes></notes>
+    <person_id>121898072</person_id>
+    <transaction_id></transaction_id>
+  </payment>
+  <payment>
+    <link rel="invoices" href="http://apicashboard.i/payments/736105732/invoices"/>
+    <link rel="self" href="http://apicashboard.i/payments/736105732"/>
+    <id>736105732</id>
+    <amount rel="financial">750.00</amount>
+    <assigned_id>4</assigned_id>
+    <client_id>695681551</client_id>
+    <client_type>Company</client_type>
+    <created_on>2009-07-28</created_on>
+    <document_template_id></document_template_id>
+    <estimate_id></estimate_id>
+    <notes></notes>
+    <person_id></person_id>
+    <transaction_id></transaction_id>
+  </payment>
+  <payment>
+    <link rel="invoices" href="http://apicashboard.i/payments/1058390128/invoices"/>
+    <link rel="self" href="http://apicashboard.i/payments/1058390128"/>
+    <id>1058390128</id>
+    <amount rel="financial">500.00</amount>
+    <assigned_id>500</assigned_id>
+    <client_id>121898072</client_id>
+    <client_type>Person</client_type>
+    <created_on>2010-06-28</created_on>
+    <document_template_id></document_template_id>
+    <estimate_id></estimate_id>
+    <notes></notes>
+    <person_id></person_id>
+    <transaction_id></transaction_id>
+  </payment>
+</payments>

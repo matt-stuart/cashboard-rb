@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoices type="array">
+  <invoice>
+    <link rel="payments" href="http://apicashboard.i/invoices/123540710/payments"/>
+    <link rel="self" href="http://apicashboard.i/invoices/123540710"/>
+    <link rel="line_items" href="http://apicashboard.i/invoices/123540710/line_items"/>
+    <link rel="import_uninvoiced_items" href="http://apicashboard.i/invoices/123540710/import_uninvoiced_items"/>
+    <id>123540710</id>
+    <assigned_id>102</assigned_id>
+    <balance read_only="true" rel="financial">18.75</balance>
+    <client_id>760501033</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-07-21</created_on>
+    <discount read_only="true" rel="financial">0.0</discount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <due_date>2010-07-28</due_date>
+    <early_period_in_days></early_period_in_days>
+    <has_been_sent>true</has_been_sent>
+    <include_expenses>false</include_expenses>
+    <include_pdf>false</include_pdf>
+    <include_time_entries>false</include_time_entries>
+    <invoice_date>2010-07-21</invoice_date>
+    <item_actual read_only="true" rel="financial">18.75</item_actual>
+    <item_cost read_only="true" rel="financial">75.0</item_cost>
+    <item_profit read_only="true" rel="financial">0.0</item_profit>
+    <item_taxable read_only="true" rel="financial">0.0</item_taxable>
+    <late_fee read_only="true" rel="financial">0.0</late_fee>
+    <late_percentage></late_percentage>
+    <late_period_in_days></late_period_in_days>
+    <notes>Unpaid and sent</notes>
+    <payment_total read_only="true" rel="financial">0.0</payment_total>
+    <post_reminder_in_days></post_reminder_in_days>
+    <pre_reminder_in_days></pre_reminder_in_days>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <total read_only="true" rel="financial">18.75</total>
+    <total_quantity read_only="true" rel="financial">1.0</total_quantity>
+  </invoice>
+  <invoice>
+    <link rel="payments" href="http://apicashboard.i/invoices/397345097/payments"/>
+    <link rel="self" href="http://apicashboard.i/invoices/397345097"/>
+    <link rel="line_items" href="http://apicashboard.i/invoices/397345097/line_items"/>
+    <link rel="import_uninvoiced_items" href="http://apicashboard.i/invoices/397345097/import_uninvoiced_items"/>
+    <id>397345097</id>
+    <assigned_id>000205</assigned_id>
+    <balance read_only="true" rel="financial">0.0</balance>
+    <client_id>760501033</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-07-28</created_on>
+    <discount read_only="true" rel="financial">0.0</discount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <due_date>2010-08-12</due_date>
+    <early_period_in_days></early_period_in_days>
+    <has_been_sent>false</has_been_sent>
+    <include_expenses>false</include_expenses>
+    <include_pdf>false</include_pdf>
+    <include_time_entries>false</include_time_entries>
+    <invoice_date>2010-07-28</invoice_date>
+    <item_actual read_only="true" rel="financial">0.0</item_actual>
+    <item_cost read_only="true" rel="financial">0.0</item_cost>
+    <item_profit read_only="true" rel="financial">0.0</item_profit>
+    <item_taxable read_only="true" rel="financial">0.0</item_taxable>
+    <late_fee read_only="true" rel="financial">0.0</late_fee>
+    <late_percentage></late_percentage>
+    <late_period_in_days></late_period_in_days>
+    <notes>Unsent invoice</notes>
+    <payment_total read_only="true" rel="financial">0.0</payment_total>
+    <post_reminder_in_days></post_reminder_in_days>
+    <pre_reminder_in_days></pre_reminder_in_days>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <total read_only="true" rel="financial">0.0</total>
+    <total_quantity read_only="true" rel="financial">0.0</total_quantity>
+  </invoice>
+  <invoice>
+    <link rel="payments" href="http://apicashboard.i/invoices/415347655/payments"/>
+    <link rel="self" href="http://apicashboard.i/invoices/415347655"/>
+    <link rel="line_items" href="http://apicashboard.i/invoices/415347655/line_items"/>
+    <link rel="import_uninvoiced_items" href="http://apicashboard.i/invoices/415347655/import_uninvoiced_items"/>
+    <id>415347655</id>
+    <assigned_id>000110</assigned_id>
+    <balance read_only="true" rel="financial">0.0</balance>
+    <client_id>225395361</client_id>
+    <client_type>Person</client_type>
+    <created_on>2010-07-07</created_on>
+    <discount read_only="true" rel="financial">0.0</discount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <due_date>2010-07-23</due_date>
+    <early_period_in_days></early_period_in_days>
+    <has_been_sent>true</has_been_sent>
+    <include_expenses>false</include_expenses>
+    <include_pdf>false</include_pdf>
+    <include_time_entries>false</include_time_entries>
+    <invoice_date>2010-07-07</invoice_date>
+    <item_actual read_only="true" rel="financial">0.0</item_actual>
+    <item_cost read_only="true" rel="financial">0.0</item_cost>
+    <item_profit read_only="true" rel="financial">0.0</item_profit>
+    <item_taxable read_only="true" rel="financial">0.0</item_taxable>
+    <late_fee read_only="true" rel="financial">0.0</late_fee>
+    <late_percentage></late_percentage>
+    <late_period_in_days></late_period_in_days>
+    <notes></notes>
+    <payment_total read_only="true" rel="financial">0.0</payment_total>
+    <post_reminder_in_days></post_reminder_in_days>
+    <pre_reminder_in_days></pre_reminder_in_days>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <total read_only="true" rel="financial">0.0</total>
+    <total_quantity read_only="true" rel="financial">0.0</total_quantity>
+  </invoice>
+  <invoice>
+    <link rel="payments" href="http://apicashboard.i/invoices/660985040/payments"/>
+    <link rel="self" href="http://apicashboard.i/invoices/660985040"/>
+    <link rel="line_items" href="http://apicashboard.i/invoices/660985040/line_items"/>
+    <link rel="import_uninvoiced_items" href="http://apicashboard.i/invoices/660985040/import_uninvoiced_items"/>
+    <id>660985040</id>
+    <assigned_id>000111</assigned_id>
+    <balance read_only="true" rel="financial">750.0</balance>
+    <client_id>438872084</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-07-28</created_on>
+    <discount read_only="true" rel="financial">0.0</discount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <due_date>2010-07-27</due_date>
+    <early_period_in_days></early_period_in_days>
+    <has_been_sent>true</has_been_sent>
+    <include_expenses>false</include_expenses>
+    <include_pdf>false</include_pdf>
+    <include_time_entries>false</include_time_entries>
+    <invoice_date>2010-07-28</invoice_date>
+    <item_actual read_only="true" rel="financial">750.0</item_actual>
+    <item_cost read_only="true" rel="financial">750.0</item_cost>
+    <item_profit read_only="true" rel="financial">0.0</item_profit>
+    <item_taxable read_only="true" rel="financial">750.0</item_taxable>
+    <late_fee read_only="true" rel="financial">0.0</late_fee>
+    <late_percentage></late_percentage>
+    <late_period_in_days></late_period_in_days>
+    <notes></notes>
+    <payment_total read_only="true" rel="financial">0.0</payment_total>
+    <post_reminder_in_days></post_reminder_in_days>
+    <pre_reminder_in_days></pre_reminder_in_days>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <total read_only="true" rel="financial">750.0</total>
+    <total_quantity read_only="true" rel="financial">1.0</total_quantity>
+  </invoice>
+  <invoice>
+    <link rel="payments" href="http://apicashboard.i/invoices/831155591/payments"/>
+    <link rel="self" href="http://apicashboard.i/invoices/831155591"/>
+    <link rel="line_items" href="http://apicashboard.i/invoices/831155591/line_items"/>
+    <link rel="import_uninvoiced_items" href="http://apicashboard.i/invoices/831155591/import_uninvoiced_items"/>
+    <id>831155591</id>
+    <assigned_id>000200</assigned_id>
+    <balance read_only="true" rel="financial">18.75</balance>
+    <client_id>121898072</client_id>
+    <client_type>Person</client_type>
+    <created_on>2010-07-07</created_on>
+    <discount read_only="true" rel="financial">0.0</discount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <due_date>2010-07-23</due_date>
+    <early_period_in_days></early_period_in_days>
+    <has_been_sent>true</has_been_sent>
+    <include_expenses>false</include_expenses>
+    <include_pdf>false</include_pdf>
+    <include_time_entries>false</include_time_entries>
+    <invoice_date>2010-07-07</invoice_date>
+    <item_actual read_only="true" rel="financial">18.75</item_actual>
+    <item_cost read_only="true" rel="financial">175.0</item_cost>
+    <item_profit read_only="true" rel="financial">0.0</item_profit>
+    <item_taxable read_only="true" rel="financial">18.75</item_taxable>
+    <late_fee read_only="true" rel="financial">0.0</late_fee>
+    <late_percentage></late_percentage>
+    <late_period_in_days></late_period_in_days>
+    <notes></notes>
+    <payment_total read_only="true" rel="financial">0.0</payment_total>
+    <post_reminder_in_days></post_reminder_in_days>
+    <pre_reminder_in_days></pre_reminder_in_days>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <total read_only="true" rel="financial">18.75</total>
+    <total_quantity read_only="true" rel="financial">1.0</total_quantity>
+  </invoice>
+  <invoice>
+    <link rel="payments" href="http://apicashboard.i/invoices/1032760123/payments"/>
+    <link rel="self" href="http://apicashboard.i/invoices/1032760123"/>
+    <link rel="line_items" href="http://apicashboard.i/invoices/1032760123/line_items"/>
+    <link rel="import_uninvoiced_items" href="http://apicashboard.i/invoices/1032760123/import_uninvoiced_items"/>
+    <id>1032760123</id>
+    <assigned_id>000001</assigned_id>
+    <balance read_only="true" rel="financial">68.75</balance>
+    <client_id>760501033</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-07-14</created_on>
+    <discount read_only="true" rel="financial">0.0</discount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <due_date>2010-07-21</due_date>
+    <early_period_in_days></early_period_in_days>
+    <has_been_sent>true</has_been_sent>
+    <include_expenses>false</include_expenses>
+    <include_pdf>false</include_pdf>
+    <include_time_entries>false</include_time_entries>
+    <invoice_date>2010-07-14</invoice_date>
+    <item_actual read_only="true" rel="financial">118.75</item_actual>
+    <item_cost read_only="true" rel="financial">118.76</item_cost>
+    <item_profit read_only="true" rel="financial">0.0</item_profit>
+    <item_taxable read_only="true" rel="financial">118.75</item_taxable>
+    <late_fee read_only="true" rel="financial">0.0</late_fee>
+    <late_percentage></late_percentage>
+    <late_period_in_days></late_period_in_days>
+    <notes>Paid invoice</notes>
+    <payment_total read_only="true" rel="financial">50.0</payment_total>
+    <post_reminder_in_days>7</post_reminder_in_days>
+    <pre_reminder_in_days>5</pre_reminder_in_days>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <total read_only="true" rel="financial">118.75</total>
+    <total_quantity read_only="true" rel="financial">6.5834000110626</total_quantity>
+  </invoice>
+</invoices>

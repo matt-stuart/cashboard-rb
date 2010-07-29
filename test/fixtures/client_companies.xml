@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<client_companies type="array">
+  <client_company>
+    <link rel="memberships" href="http://apicashboard.i/client_companies/438872084/memberships"/>
+    <link rel="self" href="http://apicashboard.i/client_companies/438872084"/>
+    <id>438872084</id>
+    <name>Survial LTD</name>
+    <address>1500 Cuts Ave.</address>
+    <address2></address2>
+    <city>Bumfuck</city>
+    <state>CA</state>
+    <zip>90001</zip>
+    <country_code>US</country_code>
+    <url></url>
+    <telephone></telephone>
+    <currency_type_code></currency_type_code>
+    <notes></notes>
+    <custom_1></custom_1>
+    <custom_2></custom_2>
+    <custom_3></custom_3>
+  </client_company>
+  <client_company>
+    <link rel="memberships" href="http://apicashboard.i/client_companies/760501033/memberships"/>
+    <link rel="self" href="http://apicashboard.i/client_companies/760501033"/>
+    <id>760501033</id>
+    <name>Bobs Manufacturing</name>
+    <address>222 Industrial Lane</address>
+    <address2></address2>
+    <city>Fremont</city>
+    <state>CA</state>
+    <zip>95111</zip>
+    <country_code>US</country_code>
+    <url></url>
+    <telephone></telephone>
+    <currency_type_code></currency_type_code>
+    <notes></notes>
+    <custom_1></custom_1>
+    <custom_2></custom_2>
+    <custom_3></custom_3>
+  </client_company>
+</client_companies>

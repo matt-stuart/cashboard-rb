@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<time_entries type="array">
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/200482051/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/200482051"/>
+    <id>200482051</id>
+    <created_on>2001-01-01 23:35:00</created_on>
+    <description>60 minutes of admin time on internal project</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>200482051</line_item_id>
+    <minutes>60</minutes>
+    <minutes_with_timer read_only="true">60</minutes_with_timer>
+    <person_id>215816037</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/800720104/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/800720104"/>
+    <id>800720104</id>
+    <created_on>2007-04-05 01:26:43</created_on>
+    <description>Not billed yet.</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>false</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>5568311</line_item_id>
+    <minutes>30</minutes>
+    <minutes_with_timer read_only="true">30</minutes_with_timer>
+    <person_id>215816037</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/917722452/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/917722452"/>
+    <id>917722452</id>
+    <created_on>2007-04-05 01:26:43</created_on>
+    <description>Also not billed yet.</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>5568311</line_item_id>
+    <minutes>30</minutes>
+    <minutes_with_timer read_only="true">30</minutes_with_timer>
+    <person_id>215816037</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/28599751/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/28599751"/>
+    <id>28599751</id>
+    <created_on>2007-04-05 01:26:43</created_on>
+    <description>Also not billed yet.</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>332946883</line_item_id>
+    <minutes>90</minutes>
+    <minutes_with_timer read_only="true">90</minutes_with_timer>
+    <person_id>215816037</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/720402845/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/720402845"/>
+    <id>720402845</id>
+    <created_on>2007-05-01 08:00:00</created_on>
+    <description>Doing stuff for money.</description>
+    <invoice_line_item_id read_only="true">1002399820</invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>5568311</line_item_id>
+    <minutes>30</minutes>
+    <minutes_with_timer read_only="true">30</minutes_with_timer>
+    <person_id>215816037</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/871966761/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/871966761"/>
+    <id>871966761</id>
+    <created_on>2007-05-01 08:00:00</created_on>
+    <description>More stuff, more money.</description>
+    <invoice_line_item_id read_only="true">1002399820</invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>5568311</line_item_id>
+    <minutes>30</minutes>
+    <minutes_with_timer read_only="true">30</minutes_with_timer>
+    <person_id>215816037</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/593385312/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/593385312"/>
+    <id>593385312</id>
+    <created_on>2007-05-01 08:00:00</created_on>
+    <description>Employee time 2</description>
+    <invoice_line_item_id read_only="true">582367732</invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>332946883</line_item_id>
+    <minutes>30</minutes>
+    <minutes_with_timer read_only="true">30</minutes_with_timer>
+    <person_id>496989602</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/978781916/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/978781916"/>
+    <id>978781916</id>
+    <created_on>2007-05-01 08:00:00</created_on>
+    <description>Employee time 1</description>
+    <invoice_line_item_id read_only="true">582367732</invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>332946883</line_item_id>
+    <minutes>30</minutes>
+    <minutes_with_timer read_only="true">30</minutes_with_timer>
+    <person_id>496989602</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/350357096/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/350357096"/>
+    <id>350357096</id>
+    <created_on>2007-05-01 08:00:00</created_on>
+    <description>Time entry for inactive project</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>495791875</line_item_id>
+    <minutes>100</minutes>
+    <minutes_with_timer read_only="true">100</minutes_with_timer>
+    <person_id>496989602</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/83761332/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/83761332"/>
+    <id>83761332</id>
+    <created_on>2007-05-02 08:00:00</created_on>
+    <description>Creation of custom logger, incorporation into models, controllers, mailers</description>
+    <invoice_line_item_id read_only="true">1002399820</invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>5568311</line_item_id>
+    <minutes>30</minutes>
+    <minutes_with_timer read_only="true">30</minutes_with_timer>
+    <person_id>215816037</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/476397491/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/476397491"/>
+    <id>476397491</id>
+    <created_on>2008-05-22 23:35:00</created_on>
+    <description>30 minutes of nonbillable employee time</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>false</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>630194006</line_item_id>
+    <minutes>30</minutes>
+    <minutes_with_timer read_only="true">30</minutes_with_timer>
+    <person_id>496989602</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/10069123/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/10069123"/>
+    <id>10069123</id>
+    <created_on>2008-05-22 23:35:00</created_on>
+    <description>60 minutes of admin time</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>630194006</line_item_id>
+    <minutes>60</minutes>
+    <minutes_with_timer read_only="true">60</minutes_with_timer>
+    <person_id>215816037</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/800636155/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/800636155"/>
+    <id>800636155</id>
+    <created_on>2008-05-22 23:35:00</created_on>
+    <description>Testing end of day import bug</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>495791875</line_item_id>
+    <minutes>60</minutes>
+    <minutes_with_timer read_only="true">60</minutes_with_timer>
+    <person_id>215816037</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+  <time_entry>
+    <link rel="toggle_timer" href="http://apicashboard.i/time_entries/965291090/toggle_timer"/>
+    <link rel="self" href="http://apicashboard.i/time_entries/965291090"/>
+    <id>965291090</id>
+    <created_on>2008-05-22 23:35:00</created_on>
+    <description>60 minutes of employee time</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <is_running read_only="true">false</is_running>
+    <line_item_id>630194006</line_item_id>
+    <minutes>60</minutes>
+    <minutes_with_timer read_only="true">60</minutes_with_timer>
+    <person_id>496989602</person_id>
+    <timer_started_at read_only="true"></timer_started_at>
+  </time_entry>
+</time_entries>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estimates type="array">
+  <estimate>
+    <link rel="self" href="http://apicashboard.i/estimates/80170468"/>
+    <link rel="toggle_status" href="http://apicashboard.i/estimates/80170468/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/estimates/80170468/line_items"/>
+    <id>80170468</id>
+    <assigned_id>CLOSED-1</assigned_id>
+    <agreement_text></agreement_text>
+    <client_id>760501033</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-07-28 21:10:00</created_on>
+    <deposit_amount rel="financial">50.00</deposit_amount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <has_been_sent>true</has_been_sent>
+    <intro_text></intro_text>
+    <is_active read_only="true">false</is_active>
+    <name>Old and crusty Estimate</name>
+    <requires_agreement>true</requires_agreement>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <discount_best read_only="true" rel="financial">-0.0</discount_best>
+    <discount_worst read_only="true" rel="financial">-0.0</discount_worst>
+    <item_actual_best read_only="true" rel="financial">0.0</item_actual_best>
+    <item_actual_worst read_only="true" rel="financial">0.0</item_actual_worst>
+    <item_cost_best read_only="true" rel="financial">0.0</item_cost_best>
+    <item_cost_worst read_only="true" rel="financial">0.0</item_cost_worst>
+    <item_profit_best read_only="true" rel="financial">0.0</item_profit_best>
+    <item_profit_worst read_only="true" rel="financial">0.0</item_profit_worst>
+    <item_taxable_best read_only="true" rel="financial">0.0</item_taxable_best>
+    <item_taxable_worst read_only="true" rel="financial">0.0</item_taxable_worst>
+    <price_best read_only="true" rel="financial">0.0</price_best>
+    <price_worst read_only="true" rel="financial">0.0</price_worst>
+    <tax_cost_best read_only="true" rel="financial">0.0</tax_cost_best>
+    <tax_cost_worst read_only="true" rel="financial">0.0</tax_cost_worst>
+    <tax_cost_2_best read_only="true" rel="financial">0.0</tax_cost_2_best>
+    <tax_cost_2_worst read_only="true" rel="financial">0.0</tax_cost_2_worst>
+    <time_best read_only="true">00</time_best>
+    <time_worst read_only="true">00</time_worst>
+  </estimate>
+  <estimate>
+    <link rel="self" href="http://apicashboard.i/estimates/112106857"/>
+    <link rel="toggle_status" href="http://apicashboard.i/estimates/112106857/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/estimates/112106857/line_items"/>
+    <id>112106857</id>
+    <assigned_id>PERSONAL-1</assigned_id>
+    <agreement_text></agreement_text>
+    <client_id>121898072</client_id>
+    <client_type>Person</client_type>
+    <created_on>2010-07-28 21:10:00</created_on>
+    <deposit_amount rel="financial">0.00</deposit_amount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <has_been_sent>true</has_been_sent>
+    <intro_text></intro_text>
+    <is_active read_only="true">true</is_active>
+    <name>A personal estimate for one person</name>
+    <requires_agreement>true</requires_agreement>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <discount_best read_only="true" rel="financial">-0.0</discount_best>
+    <discount_worst read_only="true" rel="financial">-0.0</discount_worst>
+    <item_actual_best read_only="true" rel="financial">0.0</item_actual_best>
+    <item_actual_worst read_only="true" rel="financial">0.0</item_actual_worst>
+    <item_cost_best read_only="true" rel="financial">0.0</item_cost_best>
+    <item_cost_worst read_only="true" rel="financial">0.0</item_cost_worst>
+    <item_profit_best read_only="true" rel="financial">0.0</item_profit_best>
+    <item_profit_worst read_only="true" rel="financial">0.0</item_profit_worst>
+    <item_taxable_best read_only="true" rel="financial">0.0</item_taxable_best>
+    <item_taxable_worst read_only="true" rel="financial">0.0</item_taxable_worst>
+    <price_best read_only="true" rel="financial">0.0</price_best>
+    <price_worst read_only="true" rel="financial">0.0</price_worst>
+    <tax_cost_best read_only="true" rel="financial">0.0</tax_cost_best>
+    <tax_cost_worst read_only="true" rel="financial">0.0</tax_cost_worst>
+    <tax_cost_2_best read_only="true" rel="financial">0.0</tax_cost_2_best>
+    <tax_cost_2_worst read_only="true" rel="financial">0.0</tax_cost_2_worst>
+    <time_best read_only="true">00</time_best>
+    <time_worst read_only="true">00</time_worst>
+  </estimate>
+  <estimate>
+    <link rel="self" href="http://apicashboard.i/estimates/200482051"/>
+    <link rel="toggle_status" href="http://apicashboard.i/estimates/200482051/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/estimates/200482051/line_items"/>
+    <id>200482051</id>
+    <assigned_id>0000002</assigned_id>
+    <agreement_text></agreement_text>
+    <client_id>695681551</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-07-28 21:10:00</created_on>
+    <deposit_amount rel="financial">0.00</deposit_amount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <has_been_sent>false</has_been_sent>
+    <intro_text></intro_text>
+    <is_active read_only="true">true</is_active>
+    <name>An internal estimate</name>
+    <requires_agreement>true</requires_agreement>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <discount_best read_only="true" rel="financial">-0.0</discount_best>
+    <discount_worst read_only="true" rel="financial">-0.0</discount_worst>
+    <item_actual_best read_only="true" rel="financial">0.0</item_actual_best>
+    <item_actual_worst read_only="true" rel="financial">0.0</item_actual_worst>
+    <item_cost_best read_only="true" rel="financial">0.0</item_cost_best>
+    <item_cost_worst read_only="true" rel="financial">0.0</item_cost_worst>
+    <item_profit_best read_only="true" rel="financial">0.0</item_profit_best>
+    <item_profit_worst read_only="true" rel="financial">0.0</item_profit_worst>
+    <item_taxable_best read_only="true" rel="financial">0.0</item_taxable_best>
+    <item_taxable_worst read_only="true" rel="financial">0.0</item_taxable_worst>
+    <price_best read_only="true" rel="financial">0.0</price_best>
+    <price_worst read_only="true" rel="financial">0.0</price_worst>
+    <tax_cost_best read_only="true" rel="financial">0.0</tax_cost_best>
+    <tax_cost_worst read_only="true" rel="financial">0.0</tax_cost_worst>
+    <tax_cost_2_best read_only="true" rel="financial">0.0</tax_cost_2_best>
+    <tax_cost_2_worst read_only="true" rel="financial">0.0</tax_cost_2_worst>
+    <time_best read_only="true">00</time_best>
+    <time_worst read_only="true">00</time_worst>
+  </estimate>
+  <estimate>
+    <link rel="self" href="http://apicashboard.i/estimates/296221756"/>
+    <link rel="toggle_status" href="http://apicashboard.i/estimates/296221756/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/estimates/296221756/line_items"/>
+    <id>296221756</id>
+    <assigned_id>NO-ASSOC-PROJECT</assigned_id>
+    <agreement_text></agreement_text>
+    <client_id>438872084</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-07-28 21:10:00</created_on>
+    <deposit_amount rel="financial">0.00</deposit_amount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <has_been_sent>true</has_been_sent>
+    <intro_text></intro_text>
+    <is_active read_only="true">true</is_active>
+    <name>Estimate with no project</name>
+    <requires_agreement>true</requires_agreement>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <discount_best read_only="true" rel="financial">-0.0</discount_best>
+    <discount_worst read_only="true" rel="financial">-0.0</discount_worst>
+    <item_actual_best read_only="true" rel="financial">1340.0</item_actual_best>
+    <item_actual_worst read_only="true" rel="financial">2120.0</item_actual_worst>
+    <item_cost_best read_only="true" rel="financial">1340.0</item_cost_best>
+    <item_cost_worst read_only="true" rel="financial">2120.0</item_cost_worst>
+    <item_profit_best read_only="true" rel="financial">0.0</item_profit_best>
+    <item_profit_worst read_only="true" rel="financial">0.0</item_profit_worst>
+    <item_taxable_best read_only="true" rel="financial">0.0</item_taxable_best>
+    <item_taxable_worst read_only="true" rel="financial">0.0</item_taxable_worst>
+    <price_best read_only="true" rel="financial">1340.0</price_best>
+    <price_worst read_only="true" rel="financial">2120.0</price_worst>
+    <tax_cost_best read_only="true" rel="financial">0.0</tax_cost_best>
+    <tax_cost_worst read_only="true" rel="financial">0.0</tax_cost_worst>
+    <tax_cost_2_best read_only="true" rel="financial">0.0</tax_cost_2_best>
+    <tax_cost_2_worst read_only="true" rel="financial">0.0</tax_cost_2_worst>
+    <time_best read_only="true">220</time_best>
+    <time_worst read_only="true">350</time_worst>
+  </estimate>
+  <estimate>
+    <link rel="self" href="http://apicashboard.i/estimates/317862090"/>
+    <link rel="toggle_status" href="http://apicashboard.i/estimates/317862090/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/estimates/317862090/line_items"/>
+    <id>317862090</id>
+    <assigned_id>0000001</assigned_id>
+    <agreement_text></agreement_text>
+    <client_id>760501033</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-07-28 21:10:00</created_on>
+    <deposit_amount rel="financial">50.00</deposit_amount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <has_been_sent>false</has_been_sent>
+    <intro_text></intro_text>
+    <is_active read_only="true">true</is_active>
+    <name>Auctions Redesign</name>
+    <requires_agreement>true</requires_agreement>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <discount_best read_only="true" rel="financial">-0.0</discount_best>
+    <discount_worst read_only="true" rel="financial">-0.0</discount_worst>
+    <item_actual_best read_only="true" rel="financial">2640.0</item_actual_best>
+    <item_actual_worst read_only="true" rel="financial">2640.0</item_actual_worst>
+    <item_cost_best read_only="true" rel="financial">2640.0</item_cost_best>
+    <item_cost_worst read_only="true" rel="financial">2640.0</item_cost_worst>
+    <item_profit_best read_only="true" rel="financial">0.0</item_profit_best>
+    <item_profit_worst read_only="true" rel="financial">0.0</item_profit_worst>
+    <item_taxable_best read_only="true" rel="financial">1440.0</item_taxable_best>
+    <item_taxable_worst read_only="true" rel="financial">1440.0</item_taxable_worst>
+    <price_best read_only="true" rel="financial">2640.0</price_best>
+    <price_worst read_only="true" rel="financial">2640.0</price_worst>
+    <tax_cost_best read_only="true" rel="financial">0.0</tax_cost_best>
+    <tax_cost_worst read_only="true" rel="financial">0.0</tax_cost_worst>
+    <tax_cost_2_best read_only="true" rel="financial">0.0</tax_cost_2_best>
+    <tax_cost_2_worst read_only="true" rel="financial">0.0</tax_cost_2_worst>
+    <time_best read_only="true">240</time_best>
+    <time_worst read_only="true">240</time_worst>
+  </estimate>
+  <estimate>
+    <link rel="self" href="http://apicashboard.i/estimates/660985040"/>
+    <link rel="toggle_status" href="http://apicashboard.i/estimates/660985040/toggle_status"/>
+    <link rel="line_items" href="http://apicashboard.i/estimates/660985040/line_items"/>
+    <id>660985040</id>
+    <assigned_id>SURVIVAL-1</assigned_id>
+    <agreement_text></agreement_text>
+    <client_id>438872084</client_id>
+    <client_type>Company</client_type>
+    <created_on>2010-07-28 21:10:00</created_on>
+    <deposit_amount rel="financial">0.00</deposit_amount>
+    <discount_percentage rel="financial"></discount_percentage>
+    <document_template_id></document_template_id>
+    <has_been_sent>true</has_been_sent>
+    <intro_text></intro_text>
+    <is_active read_only="true">true</is_active>
+    <name>Surviving the wild - 2 weeks</name>
+    <requires_agreement>true</requires_agreement>
+    <sales_tax rel="financial"></sales_tax>
+    <sales_tax_2 rel="financial"></sales_tax_2>
+    <sales_tax_2_cumulative rel="financial">false</sales_tax_2_cumulative>
+    <discount_best read_only="true" rel="financial">-0.0</discount_best>
+    <discount_worst read_only="true" rel="financial">-0.0</discount_worst>
+    <item_actual_best read_only="true" rel="financial">0.0</item_actual_best>
+    <item_actual_worst read_only="true" rel="financial">0.0</item_actual_worst>
+    <item_cost_best read_only="true" rel="financial">0.0</item_cost_best>
+    <item_cost_worst read_only="true" rel="financial">0.0</item_cost_worst>
+    <item_profit_best read_only="true" rel="financial">0.0</item_profit_best>
+    <item_profit_worst read_only="true" rel="financial">0.0</item_profit_worst>
+    <item_taxable_best read_only="true" rel="financial">0.0</item_taxable_best>
+    <item_taxable_worst read_only="true" rel="financial">0.0</item_taxable_worst>
+    <price_best read_only="true" rel="financial">0.0</price_best>
+    <price_worst read_only="true" rel="financial">0.0</price_worst>
+    <tax_cost_best read_only="true" rel="financial">0.0</tax_cost_best>
+    <tax_cost_worst read_only="true" rel="financial">0.0</tax_cost_worst>
+    <tax_cost_2_best read_only="true" rel="financial">0.0</tax_cost_2_best>
+    <tax_cost_2_worst read_only="true" rel="financial">0.0</tax_cost_2_worst>
+    <time_best read_only="true">00</time_best>
+    <time_worst read_only="true">00</time_worst>
+  </estimate>
+</estimates>

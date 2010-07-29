@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project_assignments type="array">
+  <project_assignment>
+    <link rel="self" href="http://apicashboard.i/project_assignments/345337579"/>
+    <id>345337579</id>
+    <bill_rate rel="financial">75.00</bill_rate>
+    <has_access>true</has_access>
+    <pay_rate rel="financial">55.00</pay_rate>
+    <person_id>496989602</person_id>
+    <project_id>317862090</project_id>
+  </project_assignment>
+  <project_assignment>
+    <link rel="self" href="http://apicashboard.i/project_assignments/708146559"/>
+    <id>708146559</id>
+    <bill_rate rel="financial">35.00</bill_rate>
+    <has_access>true</has_access>
+    <pay_rate rel="financial">20.00</pay_rate>
+    <person_id>496989602</person_id>
+    <project_id>708146559</project_id>
+  </project_assignment>
+  <project_assignment>
+    <link rel="self" href="http://apicashboard.i/project_assignments/1073069532"/>
+    <id>1073069532</id>
+    <bill_rate rel="financial">75.00</bill_rate>
+    <has_access>true</has_access>
+    <pay_rate rel="financial">75.00</pay_rate>
+    <person_id>215816037</person_id>
+    <project_id>708146559</project_id>
+  </project_assignment>
+</project_assignments>

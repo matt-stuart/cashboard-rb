@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document_templates type="array">
+  <document_template>
+    <link rel="self" href="http://apicashboard.i/document_templates/HTML_INVOICE_2"/>
+    <id>89758287</id>
+    <content>This is another invoice template that's different.</content>
+    <created_at>2010-07-28 21:10:00</created_at>
+    <has_been_modified read_only="true">true</has_been_modified>
+    <is_default read_only="true">false</is_default>
+    <name>HTML_INVOICE_2</name>
+    <title></title>
+  </document_template>
+  <document_template>
+    <link rel="self" href="http://apicashboard.i/document_templates/html_estimate_2"/>
+    <id>476377787</id>
+    <content>New estimate template.</content>
+    <created_at>2010-07-28 21:10:00</created_at>
+    <has_been_modified read_only="true">true</has_been_modified>
+    <is_default read_only="true">false</is_default>
+    <name>html_estimate_2</name>
+    <title></title>
+  </document_template>
+  <document_template>
+    <link rel="self" href="http://apicashboard.i/document_templates/html_invoice"/>
+    <id>593363170</id>
+    <content>Standard invoice template stuff here.</content>
+    <created_at>2010-07-28 21:10:00</created_at>
+    <has_been_modified read_only="true">true</has_been_modified>
+    <is_default read_only="true">true</is_default>
+    <name>html_invoice</name>
+    <title></title>
+  </document_template>
+  <document_template>
+    <link rel="self" href="http://apicashboard.i/document_templates/custom_content"/>
+    <id>897848990</id>
+    <content>this is hella custom!</content>
+    <created_at>2010-07-28 21:10:00</created_at>
+    <has_been_modified read_only="true">true</has_been_modified>
+    <is_default read_only="true">false</is_default>
+    <name>custom_content</name>
+    <title></title>
+  </document_template>
+  <document_template>
+    <link rel="self" href="http://apicashboard.i/document_templates/html_payment_2"/>
+    <id>940837125</id>
+    <content>Some other payment receipt</content>
+    <created_at>2010-07-28 21:10:00</created_at>
+    <has_been_modified read_only="true">true</has_been_modified>
+    <is_default read_only="true">false</is_default>
+    <name>html_payment_2</name>
+    <title></title>
+  </document_template>
+</document_templates>

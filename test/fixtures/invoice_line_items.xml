@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice_line_items type="array">
+  <invoice_line_item>
+    <link rel="self" href="http://apicashboard.i/invoice_line_items/275168975"/>
+    <id>275168975</id>
+    <description></description>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <invoice_id>123540710</invoice_id>
+    <invoice_schedule_id></invoice_schedule_id>
+    <is_taxable>false</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">75.00</price_per>
+    <quantity>1.0</quantity>
+    <rank>1</rank>
+    <title>1/21/07 - Update TMnDx</title>
+    <total read_only="true" rel="financial">18.75</total>
+  </invoice_line_item>
+  <invoice_line_item>
+    <link rel="self" href="http://apicashboard.i/invoice_line_items/363923817"/>
+    <id>363923817</id>
+    <description></description>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <invoice_id>1032760123</invoice_id>
+    <invoice_schedule_id></invoice_schedule_id>
+    <is_taxable>true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">75.00</price_per>
+    <quantity>0.25</quantity>
+    <rank>1</rank>
+    <title>1/21/07 - Update TMnDx</title>
+    <total read_only="true" rel="financial">18.75</total>
+  </invoice_line_item>
+  <invoice_line_item>
+    <link rel="self" href="http://apicashboard.i/invoice_line_items/370295591"/>
+    <id>370295591</id>
+    <description></description>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <invoice_id>1032760123</invoice_id>
+    <invoice_schedule_id></invoice_schedule_id>
+    <is_taxable>true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">0.00</price_per>
+    <quantity>5.0</quantity>
+    <rank>20</rank>
+    <title>Free item, just in to support a method in invoice_test.rb</title>
+    <total read_only="true" rel="financial">0.00</total>
+  </invoice_line_item>
+  <invoice_line_item>
+    <link rel="self" href="http://apicashboard.i/invoice_line_items/582367732"/>
+    <id>582367732</id>
+    <description></description>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <invoice_id>1032760123</invoice_id>
+    <invoice_schedule_id></invoice_schedule_id>
+    <is_taxable>true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">75.00</price_per>
+    <quantity>0.3334</quantity>
+    <rank>3</rank>
+    <title>1/24/07 - Help Dr. Olmos upgrade Parallels over the phone</title>
+    <total read_only="true" rel="financial">25.00</total>
+  </invoice_line_item>
+  <invoice_line_item>
+    <link rel="self" href="http://apicashboard.i/invoice_line_items/701841496"/>
+    <id>701841496</id>
+    <description></description>
+    <flat_fee rel="financial">100.00</flat_fee>
+    <invoice_id></invoice_id>
+    <invoice_schedule_id>736427113</invoice_schedule_id>
+    <is_taxable>true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">75.00</price_per>
+    <quantity>1.0</quantity>
+    <rank>2</rank>
+    <title>Another item</title>
+    <total read_only="true" rel="financial">18.75</total>
+  </invoice_line_item>
+  <invoice_line_item>
+    <link rel="self" href="http://apicashboard.i/invoice_line_items/819728868"/>
+    <id>819728868</id>
+    <description></description>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <invoice_id></invoice_id>
+    <invoice_schedule_id>736427113</invoice_schedule_id>
+    <is_taxable>false</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">75.00</price_per>
+    <quantity>1.0</quantity>
+    <rank>1</rank>
+    <title>Item one</title>
+    <total read_only="true" rel="financial">18.75</total>
+  </invoice_line_item>
+  <invoice_line_item>
+    <link rel="self" href="http://apicashboard.i/invoice_line_items/831155591"/>
+    <id>831155591</id>
+    <description></description>
+    <flat_fee rel="financial">100.00</flat_fee>
+    <invoice_id>831155591</invoice_id>
+    <invoice_schedule_id></invoice_schedule_id>
+    <is_taxable>true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">75.00</price_per>
+    <quantity>1.0</quantity>
+    <rank>2</rank>
+    <title>Personal items</title>
+    <total read_only="true" rel="financial">18.75</total>
+  </invoice_line_item>
+  <invoice_line_item>
+    <link rel="self" href="http://apicashboard.i/invoice_line_items/899664641"/>
+    <id>899664641</id>
+    <description></description>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <invoice_id>660985040</invoice_id>
+    <invoice_schedule_id></invoice_schedule_id>
+    <is_taxable>true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">750.00</price_per>
+    <quantity>1.0</quantity>
+    <rank>2</rank>
+    <title>weaponry</title>
+    <total read_only="true" rel="financial">750.00</total>
+  </invoice_line_item>
+  <invoice_line_item>
+    <link rel="self" href="http://apicashboard.i/invoice_line_items/1002399820"/>
+    <id>1002399820</id>
+    <description></description>
+    <flat_fee rel="financial">0.00</flat_fee>
+    <invoice_id>1032760123</invoice_id>
+    <invoice_schedule_id></invoice_schedule_id>
+    <is_taxable>true</is_taxable>
+    <markup_percentage rel="financial"></markup_percentage>
+    <price_per rel="financial">75.00</price_per>
+    <quantity>1.0</quantity>
+    <rank>2</rank>
+    <title>1/17/07 - Fix Dr. Smith's computer, fix backup compression</title>
+    <total read_only="true" rel="financial">75.00</total>
+  </invoice_line_item>
+</invoice_line_items>

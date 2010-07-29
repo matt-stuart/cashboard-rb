@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expenses type="array">
+  <expense>
+    <link rel="self" href="http://apicashboard.i/expenses/304580248"/>
+    <id>304580248</id>
+    <amount>100.00</amount>
+    <category></category>
+    <created_on>2010-07-28 00:00:00</created_on>
+    <description>Uncategorized but added notes</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <payee_id></payee_id>
+    <payee_type></payee_type>
+    <person_id>215816037</person_id>
+    <project_id>317862090</project_id>
+  </expense>
+  <expense>
+    <link rel="self" href="http://apicashboard.i/expenses/762764203"/>
+    <id>762764203</id>
+    <amount>84.50</amount>
+    <category>dining</category>
+    <created_on>2010-07-21 00:00:00</created_on>
+    <description>Dinner and drinks</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <payee_id></payee_id>
+    <payee_type></payee_type>
+    <person_id>496989602</person_id>
+    <project_id>198381282</project_id>
+  </expense>
+  <expense>
+    <link rel="self" href="http://apicashboard.i/expenses/700279589"/>
+    <id>700279589</id>
+    <amount>100.00</amount>
+    <category>entertainment</category>
+    <created_on>2010-07-28 00:00:00</created_on>
+    <description>Getting our clients smashed at the bar. Booyeah!</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>false</is_billable>
+    <payee_id></payee_id>
+    <payee_type></payee_type>
+    <person_id>215816037</person_id>
+    <project_id>317862090</project_id>
+  </expense>
+  <expense>
+    <link rel="self" href="http://apicashboard.i/expenses/689178246"/>
+    <id>689178246</id>
+    <amount>1200.00</amount>
+    <category>payroll</category>
+    <created_on>2010-07-21 00:00:00</created_on>
+    <description>Payment for Admin</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>false</is_billable>
+    <payee_id></payee_id>
+    <payee_type></payee_type>
+    <person_id>215816037</person_id>
+    <project_id></project_id>
+  </expense>
+  <expense>
+    <link rel="self" href="http://apicashboard.i/expenses/761582085"/>
+    <id>761582085</id>
+    <amount>500.00</amount>
+    <category>payroll</category>
+    <created_on>2010-07-21 00:00:00</created_on>
+    <description>Payment for Employee - last two weeks</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>false</is_billable>
+    <payee_id>496989602</payee_id>
+    <payee_type>Person</payee_type>
+    <person_id>215816037</person_id>
+    <project_id></project_id>
+  </expense>
+  <expense>
+    <link rel="self" href="http://apicashboard.i/expenses/568463538"/>
+    <id>568463538</id>
+    <amount>2500.00</amount>
+    <category>purchase order</category>
+    <created_on>2010-07-28 00:00:00</created_on>
+    <description>P.O from Joes Web Design</description>
+    <invoice_line_item_id read_only="true"></invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <payee_id>438872084</payee_id>
+    <payee_type>Company</payee_type>
+    <person_id>215816037</person_id>
+    <project_id>317862090</project_id>
+  </expense>
+  <expense>
+    <link rel="self" href="http://apicashboard.i/expenses/810163646"/>
+    <id>810163646</id>
+    <amount>500.00</amount>
+    <category>weaponry</category>
+    <created_on>2010-07-28 00:00:00</created_on>
+    <description>Rambo knife materials and forging</description>
+    <invoice_line_item_id read_only="true">899664641</invoice_line_item_id>
+    <is_billable>true</is_billable>
+    <payee_id></payee_id>
+    <payee_type></payee_type>
+    <person_id>215816037</person_id>
+    <project_id>660985040</project_id>
+  </expense>
+</expenses>

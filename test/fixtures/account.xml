@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account>
+  <created_at read_only="true">2010-07-28 21:09:59</created_at>
+  <currency_type_code>USD</currency_type_code>
+  <date_format>mm_dd_yyyy</date_format>
+  <expenses_billable>true</expenses_billable>
+  <is_disabled read_only="true">false</is_disabled>
+  <next_payment_date read_only="true">2010-07-27</next_payment_date>
+  <price_plan_max>10.00</price_plan_max>
+  <round_time_to_nearest_minutes>1</round_time_to_nearest_minutes>
+  <subdomain read_only="true">paid</subdomain>
+  <time_entries_billable>true</time_entries_billable>
+  <owner>
+    <api_key read_only="true">6tq36lv3i7llk5ivo1mjlffd1pc09vkw56kncwplzdxo6v7xh6</api_key>
+    <last_login read_only="true">2010-07-27 14:10:02</last_login>
+    <login_count read_only="true">2</login_count>
+    <address></address>
+    <address2></address2>
+    <city></city>
+    <country_code></country_code>
+    <custom_1></custom_1>
+    <custom_2></custom_2>
+    <custom_3></custom_3>
+    <email_address>mrmoney@payingcustomer.com</email_address>
+    <employee_status_code read_only="true">2</employee_status_code>
+    <first_name>Mr</first_name>
+    <last_name>Money</last_name>
+    <notes></notes>
+    <password></password>
+    <state></state>
+    <telephone></telephone>
+    <url></url>
+    <zip></zip>
+  </owner>
+  <company>
+    <name>Widgets Unlimited</name>
+    <address>5 Market St</address>
+    <address2>Suite 201</address2>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>95555</zip>
+    <country_code>US</country_code>
+    <url></url>
+    <telephone></telephone>
+    <notes></notes>
+    <custom_1></custom_1>
+    <custom_2></custom_2>
+    <custom_3></custom_3>
+  </company>
+</account>

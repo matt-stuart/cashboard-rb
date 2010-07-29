@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company_memberships type="array">
+  <company_membership>
+    <link rel="self" href="http://apicashboard.i/company_memberships/760501033"/>
+    <id>760501033</id>
+    <person_id>121898072</person_id>
+    <company_id>760501033</company_id>
+  </company_membership>
+  <company_membership>
+    <link rel="self" href="http://apicashboard.i/company_memberships/323507299"/>
+    <id>323507299</id>
+    <person_id>215816037</person_id>
+    <company_id>695681551</company_id>
+  </company_membership>
+  <company_membership>
+    <link rel="self" href="http://apicashboard.i/company_memberships/837986434"/>
+    <id>837986434</id>
+    <person_id>496989602</person_id>
+    <company_id>695681551</company_id>
+  </company_membership>
+</company_memberships>

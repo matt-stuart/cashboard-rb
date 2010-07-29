@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees type="array">
+  <employee>
+    <link rel="self" href="http://apicashboard.i/employees/215816037"/>
+    <id>215816037</id>
+    <api_key read_only="true">6tq36lv3i7llk5ivo1mjlffd1pc09vkw56kncwplzdxo6v7xh6</api_key>
+    <last_login read_only="true">2010-07-27 14:10:02</last_login>
+    <login_count read_only="true">2</login_count>
+    <address></address>
+    <address2></address2>
+    <city></city>
+    <country_code></country_code>
+    <custom_1></custom_1>
+    <custom_2></custom_2>
+    <custom_3></custom_3>
+    <email_address>mrmoney@payingcustomer.com</email_address>
+    <employee_status_code read_only="true">2</employee_status_code>
+    <first_name>Mr</first_name>
+    <last_name>Money</last_name>
+    <notes></notes>
+    <password></password>
+    <state></state>
+    <telephone></telephone>
+    <url></url>
+    <zip></zip>
+  </employee>
+  <employee>
+    <link rel="self" href="http://apicashboard.i/employees/496989602"/>
+    <id>496989602</id>
+    <api_key read_only="true">ntwk3zmz4tbj4n842awn2d4p1hu06estzhjlr3dmi84iusjj8o</api_key>
+    <last_login read_only="true">2010-07-27 14:10:02</last_login>
+    <login_count read_only="true">0</login_count>
+    <address></address>
+    <address2></address2>
+    <city></city>
+    <country_code></country_code>
+    <custom_1></custom_1>
+    <custom_2></custom_2>
+    <custom_3></custom_3>
+    <email_address>manuallabor@payingcustomer.com</email_address>
+    <employee_status_code read_only="true">0</employee_status_code>
+    <first_name>Manual</first_name>
+    <last_name>Laborer</last_name>
+    <notes></notes>
+    <password></password>
+    <state></state>
+    <telephone></telephone>
+    <url></url>
+    <zip></zip>
+  </employee>
+</employees>

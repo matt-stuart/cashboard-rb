@@ -1,0 +1,56 @@
+h1. Cashboard-rb
+
+This project is the official Ruby wrapper for the "Cashboard API":http://api.cashboardapp.com created and maintained by "Subimage LLC":http://www.subimage.com.
+
+
+h2. Installation
+
+bc. sudo gem install cashboard-rb
+
+
+h2. Example Code
+
+bc.. require 'rubygems'
+require 'cashboard'
+
+Cashboard::Base.authenticate('your_subdomain', 'your_api_key')
+
+puts "Employees:"
+Cashboard::Employee.list.each { |emp| puts emp.inspect }
+
+puts "Client Companies:"
+Cashboard::ClientCompany.list.each { |client| puts client.inspect }
+
+puts "Projects:"
+Cashboard::Project.list.each { |prj| puts prj.inspect }
+
+p. There are more examples in the /examples directory of this project.
+
+
+h2. Links
+
+* "Cashboard API Documentation":http://api.cashboardapp.com
+* "Cashboard API Forum":http://forum.getcashboard.com/forums/7
+* "Source code for Cashboard-rb":http://github.com/subimage/cashboard-rb
+
+
+h2. Contributing
+
+If you'd like to contribute to this project, please fork it and add your code *with working tests*.
+
+
+h3. Testing
+
+Tests are handled with Test::Unit and Fakeweb.
+There's a complete test suite you can run by invoking:
+@ruby test/full.rb@
+
+The project is also setup to use autotest.
+
+If you add any code please ensure all tests continue to run properly by running the test suite.
+
+
+h2. License
+
+Cashboard-rb is released under the MIT License.
+Tweak it, fork it, twerk it and translate it to other languages...please!

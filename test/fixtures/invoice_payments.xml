@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice_payments type="array">
+  <invoice_payment>
+    <link rel="self" href="http://apicashboard.i/invoice_payments/69707708"/>
+    <id>69707708</id>
+    <invoice_id>1032760123</invoice_id>
+    <payment_id>783544818</payment_id>
+    <amount rel="financial">50.00</amount>
+  </invoice_payment>
+</invoice_payments>
