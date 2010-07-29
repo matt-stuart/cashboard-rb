@@ -1,0 +1,26 @@
+require 'redgreen/autotest'
+
+Autotest.add_hook :initialize do |at|
+  # Ignore these files
+  %w{
+    .hg .git .svn stories tmtags Rakefile Capfile README .html
+    spec/spec.opts spec/rcov.opts vendor/gems autotest svn-commit .DS_Store
+  }.each {|exception|at.add_exception(exception)}
+
+  at.clear_mappings
+
+  # Test everything in cashboard/lib
+  at.add_mapping(%r%^lib/cashboard/(.*)\.rb$%) do |file, m|
+    # also run original class file
+    full_dir = File.dirname(file)
+    orig = full_dir[full_dir.rindex('/')+1, full_dir.length]
+    model = File.basename(file, '.rb')
+
+    at.files_matching %r%^test/unit/#{model}_test\.rb$%
+  end
+  
+  # Now add support for the test files themselves
+	at.add_mapping(%r%^test/unit/(.*)\.rb$%) do |file, m|
+	  at.files_matching %r%#{file}%
+	end
+end
