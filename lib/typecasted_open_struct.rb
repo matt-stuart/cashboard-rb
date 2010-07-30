@@ -12,11 +12,10 @@ class Boolean; end
 #
 #
 # Example:
-# 
 #   class MyFoo < TypecastedOpenStruct
 #     element :true_false_thing, Boolean
 #     element :amount, Float
-#  end
+#   end
 class TypecastedOpenStruct < OpenStruct
   @@elements = {}
   

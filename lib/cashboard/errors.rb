@@ -31,11 +31,11 @@ module Cashboard
     
     # Returns a hash of errors keyed on field name.
     # 
-    # Example
-    # {
-    #   :field_name_one => "Error message",
-    #   :field_name_two => "Error message"
-    # }
+    # Return Example
+    #   {
+    #     :field_name_one => "Error message",
+    #     :field_name_two => "Error message"
+    #   }
     def errors
       parsed_errors = XmlSimple.xml_in(response.response.body)
       error_hash = {}

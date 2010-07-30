@@ -50,10 +50,9 @@ module Cashboard
     # Allows you to pass in a hash to create without naming it.
     #
     # Example:
-    #
-    # te = Cashboard::TimeEntry.create({
-    #   :minutes => 60, :project_id => 12345
-    # })
+    #   te = Cashboard::TimeEntry.create({
+    #     :minutes => 60, :project_id => 12345
+    #   })
     def self.create(params={}, options={})
       options = merge_options(options)
       options.merge!({:body => self.new(params).to_xml})
