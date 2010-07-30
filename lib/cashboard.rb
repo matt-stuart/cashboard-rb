@@ -8,7 +8,6 @@ require 'xmlsimple'
 require 'builder'
 
 module Cashboard
-  VERSION = "0.5.0".freeze
   # When reading the parsed hashes generated from parser we ignore these pairs.
   IGNORED_XML_KEYS = ['rel', 'read_only']
   
