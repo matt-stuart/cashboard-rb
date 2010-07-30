@@ -2,6 +2,8 @@ h1. Cashboard-rb
 
 This project is the official Ruby wrapper for the "Cashboard API":http://api.cashboardapp.com created and maintained by "Subimage LLC":http://www.subimage.com.
 
+"Cashboard":http://www.getcashboard.com is an online service that allows you to track time, create estimates, invoice your clients, and collect payments via credit cards or PayPal.
+
 
 h2. Installation
 
