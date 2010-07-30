@@ -19,6 +19,7 @@ begin
     gem.add_dependency('httparty', '>= 0.6.1')
     gem.add_dependency('xml-simple', '>= 1.0.12')
   end
+  Jeweler::GemcutterTasks.new
 rescue LoadError
   puts "Jeweler not available. Install it with: gem install jeweler"
 end
