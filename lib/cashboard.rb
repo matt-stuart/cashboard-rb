@@ -70,4 +70,7 @@ require 'cashboard/behaviors/toggleable'
 require 'cashboard/behaviors/lists_line_items'
 
 library_files = Dir[File.join(File.dirname(__FILE__), 'cashboard/*.rb')]
-library_files.each {|lib| require lib }
+library_files.each do |lib| 
+  next if lib.include?('cashboard/base.rb')
+  require lib
+end

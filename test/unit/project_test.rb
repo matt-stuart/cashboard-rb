@@ -192,7 +192,7 @@ class ProjectTest < Test::Unit::TestCase
   end
   
   def test_href
-    assert Cashboard::Project.list[0].href.include?(Cashboard::Base::CB_URL[:testing])
+    assert Cashboard::Project.list[0].href.include?(Cashboard::Base.api_url)
   end
   
 end

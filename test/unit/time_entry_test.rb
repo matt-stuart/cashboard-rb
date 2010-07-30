@@ -101,7 +101,7 @@ class TimeEntryTest < Test::Unit::TestCase
   def test_delete_fail
     find_uninvoiced_entry
     
-    @te.href = "http://#{Cashboard::Base::CB_URL[:testing]}/time_entries/12345"
+    @te.href = "http://#{Cashboard::Base.api_url}/time_entries/12345"
     
     FakeWeb.register_uri(
       :delete, 

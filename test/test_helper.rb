@@ -1,3 +1,5 @@
+TEST_ENVIRONMENT = true
+
 require File.dirname(__FILE__) + '/../lib/cashboard'
 require 'test/unit'
 require 'yaml'
@@ -56,7 +58,8 @@ class Test::Unit::TestCase
   # Returns a regular expression that matches multiple fakeweb requests
   # for sub resource URLS...like http://apicashboard.i/projects/{project-id}/line_items
   def get_sub_url_regexp(resource, sub_resource)
-    %r|#{Cashboard::Base::CB_URL[:testing]}/#{resource}/.*/#{sub_resource}|
+    url_no_prefix = Cashboard::Base.api_url.gsub(%r|https*\://|, '')
+    %r|#{url_no_prefix}/#{resource}/.*/#{sub_resource}|
   end
   
   # Returns the base API url with authentication credentials applied.
@@ -66,12 +69,15 @@ class Test::Unit::TestCase
   # If a URL is passed in, it will be deconstructed and auth credentials
   # added in place. Useful for mocking fakeweb requests for delete/update/etc.
   def url_with_auth(passed_url=nil)
-    url  = "http://#{@auth['test_account']['subdomain']}:"
+    prefix_pattern = %r|https*\://|
+    url_prefix = Cashboard::Base.api_url.match(prefix_pattern)[0]
+    url  = url_prefix
+    url << "#{@auth['test_account']['subdomain']}:"
     url << "#{@auth['test_account']['api_key']}@"
-    url << Cashboard::Base::CB_URL[:testing]
+    url << Cashboard::Base.api_url.gsub(prefix_pattern, '')
     # Replace base url with our auth'd one.
     if passed_url
-      url << passed_url.gsub(/.*#{Cashboard::Base::CB_URL[:testing]}/, '')
+      url << passed_url.gsub(/.*#{Cashboard::Base.api_url}/, '')
     end
     return url    
   end

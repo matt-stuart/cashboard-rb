@@ -1,13 +1,17 @@
 module Cashboard
   class Base < Cashboard::Struct
     include HTTParty
-    CB_URL = {
-      :testing => "apicashboard.i",
-      :production => "https://api.cashboardapp.com"
-    } 
-    base_uri CB_URL[:testing]
+    
+    if defined? TEST_ENVIRONMENT
+      @@api_url = "http://apicashboard.i" 
+    else
+      @@api_url = "https://api.cashboardapp.com" 
+    end
+    
+    base_uri @@api_url
     
     cattr_accessor :auth
+    cattr_accessor :api_url
     
     # Stores id and url for resource when instantiated
     attr_accessor :id
