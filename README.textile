@@ -7,9 +7,7 @@ This project is the official Ruby wrapper for the "Cashboard API":http://api.cas
 
 h2. Installation
 
-Right now you'd need to include it in your lib directory. I'm working on getting it up and running as a gem at the moment.
-
--bc. sudo gem install cashboard-rb-
+bc. sudo gem install cashboard
 
 
 h2. Example Code
