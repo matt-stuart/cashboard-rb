@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
      "LICENSE",
      "README.textile",
      "Rakefile",
+     "cashboard.gemspec",
      "examples/create_account.rb",
      "examples/list_stuff_in_account.rb",
      "examples/simple_workflow.rb",
@@ -105,24 +106,24 @@ Gem::Specification.new do |s|
     s.specification_version = 3
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
+      s.add_development_dependency(%q<mocha>, [">= 0.9.8"])
+      s.add_development_dependency(%q<fakeweb>, [">= 1.2.8"])
       s.add_runtime_dependency(%q<activesupport>, [">= 2.3.5"])
       s.add_runtime_dependency(%q<httparty>, [">= 0.6.1"])
       s.add_runtime_dependency(%q<xml-simple>, [">= 1.0.12"])
-      s.add_development_dependency(%q<mocha>, [">= 0.9.8"])
-      s.add_development_dependency(%q<fakeweb>, [">= 1.2.8"])
     else
+      s.add_dependency(%q<mocha>, [">= 0.9.8"])
+      s.add_dependency(%q<fakeweb>, [">= 1.2.8"])
       s.add_dependency(%q<activesupport>, [">= 2.3.5"])
       s.add_dependency(%q<httparty>, [">= 0.6.1"])
       s.add_dependency(%q<xml-simple>, [">= 1.0.12"])
-      s.add_dependency(%q<mocha>, [">= 0.9.8"])
-      s.add_dependency(%q<fakeweb>, [">= 1.2.8"])
     end
   else
+    s.add_dependency(%q<mocha>, [">= 0.9.8"])
+    s.add_dependency(%q<fakeweb>, [">= 1.2.8"])
     s.add_dependency(%q<activesupport>, [">= 2.3.5"])
     s.add_dependency(%q<httparty>, [">= 0.6.1"])
     s.add_dependency(%q<xml-simple>, [">= 1.0.12"])
-    s.add_dependency(%q<mocha>, [">= 0.9.8"])
-    s.add_dependency(%q<fakeweb>, [">= 1.2.8"])
   end
 end
 
