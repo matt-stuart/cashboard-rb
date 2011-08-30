@@ -172,6 +172,8 @@ module Cashboard
         response = get(url, merge_options(options))
         check_status_code(response)
         collection = response.parsed_response[klass_to_return.resource_name.singularize]
+        return unless collection
+        collection = [collection] unless collection.kind_of?(Array)
         collection.map do |h| 
           klass_to_return.new(h)
         end

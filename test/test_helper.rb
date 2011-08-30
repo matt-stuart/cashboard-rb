@@ -99,6 +99,16 @@ class Test::Unit::TestCase
     end
   end
   
+  # Registers a resource and associates it with the specified fixture_file
+  def mock_simple_list_requests_for_resource(resource, fixture_file=nil)
+    FakeWeb.register_uri(
+      :get, 
+      url_with_auth + "/#{resource}", 
+      :body => get_xml_for_fixture(fixture_file || resource),
+      :content_type => "application/xml"
+    )
+  end
+  
   # Fakes request for a sub resource.
   def mock_sub_resource(resource, sub_resource, fixture_name, status=['200', 'OK'])
     FakeWeb.register_uri(
@@ -109,4 +119,11 @@ class Test::Unit::TestCase
     )
   end
   
+end
+
+# Include the test only classes
+library_files = Dir[File.join(File.dirname(__FILE__), 'cashboard/*.rb')]
+library_files.each do |lib| 
+  next if lib.include?('cashboard/base.rb')
+  require lib
 end

@@ -2,7 +2,7 @@ $LOAD_PATH << File.join(File.dirname(__FILE__))
 
 require 'typecasted_open_struct'
 require 'rubygems'
-require 'active_support'
+require 'active_support/all'
 require 'httparty'
 require 'xmlsimple'
 require 'builder'
